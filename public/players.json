@@ -1,0 +1,122 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Rafiq Hasan",
+    "player_id": "BPL001",
+    "country": "Bangladesh",
+    "playing_type": "Allrounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "player_price": 1200000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Imran Zaman",
+    "player_id": "BPL002",
+    "country": "Bangladesh",
+    "playing_type": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "player_price": 950000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Samir Khan",
+    "player_id": "BPL003",
+    "country": "Pakistan",
+    "playing_type": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "player_price": 1000000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Tariq Ahmed",
+    "player_id": "BPL004",
+    "country": "Bangladesh",
+    "playing_type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "player_price": 800000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Liam O'Connor",
+    "player_id": "BPL005",
+    "country": "Ireland",
+    "playing_type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "player_price": 1100000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Shahid Rahman",
+    "player_id": "BPL006",
+    "country": "Bangladesh",
+    "playing_type": "Allrounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_price": 1250000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Carlos Mendes",
+    "player_id": "BPL007",
+    "country": "West Indies",
+    "playing_type": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "player_price": 900000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Arif Hossain",
+    "player_id": "BPL008",
+    "country": "Bangladesh",
+    "playing_type": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast",
+    "player_price": 1050000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Dylan Pierce",
+    "player_id": "BPL009",
+    "country": "England",
+    "playing_type": "Allrounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "player_price": 1150000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Nayeem Sheikh",
+    "player_id": "BPL010",
+    "country": "Bangladesh",
+    "playing_type": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "player_price": 850000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Kamaljit Singh",
+    "player_id": "BPL011",
+    "country": "India",
+    "playing_type": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "player_price": 920000
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NdMGVy7g/mohammad-rafiqul.jpg",
+    "player_name": "Zahidul Islam",
+    "player_id": "BPL012",
+    "country": "Bangladesh",
+    "playing_type": "Allrounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "player_price": 1300000
+  }
+]
