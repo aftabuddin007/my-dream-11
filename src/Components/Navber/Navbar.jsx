@@ -1,7 +1,7 @@
 import React from 'react';
 import navImg from '../../images/logo.png'
 import dollarImg from '../../images/dollar1.svg'
-const Navbar = () => {
+const Navbar = ({available}) => {
     return (
      <div class="navbar bg-red-400 max-w-[1280px] mx-auto rounded-lg">
   <div class="navbar-start">
@@ -36,7 +36,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div class="navbar-end">
-    <a class="btn"><span>000000</span>Coin <img src={dollarImg} alt="" /></a>
+    <a class="btn"><span>{available}</span>Coin <img src={dollarImg} alt="" /></a>
   </div>
 </div>
     );
