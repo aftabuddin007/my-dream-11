@@ -1,10 +1,13 @@
 import React from 'react';
+import SelecterCard from '../SelectedCard/SelecterCard';
 
-const SelectedPiayers = ({selectedPlayers}) => {
-    console.log(selectedPlayers)
+const SelectedPiayers = ({selectedPlayers,removePlayer}) => {
+    // console.log(selectedPlayers)
     return (
         <div className='max-w-[1280px] mx-auto p-4'>
-            <h1>hey selector</h1>
+            {
+                selectedPlayers.map(player=><SelecterCard player={player} removePlayer={removePlayer}></SelecterCard>)
+            }
 
         </div>
     );

@@ -2,17 +2,23 @@ import React from 'react';
 import userImg from '../../images/user1.svg'
 import flagImg from '../../images/report1.svg'
 import { useState } from 'react';
+import { toast } from 'react-toastify';
 const PlayerCard = ({player,setAvailable,available,setSelectedPlayers,selectedPlayers}) => {
     const [isSelected,setIsSelected] = useState(false)
     const handleSelected =(playerData1)=>{
         const playerPrice = parseInt(playerData1.player_price)
         if(available<playerPrice){
-            alert("You don't have enough balance")
+            toast("You don't have enough balance")
+            return;
+        }
+        if(selectedPlayers.length ===6){
+            toast("you already selected 6 players   ")
             return;
         }
         setIsSelected(true)
         setAvailable(available-playerPrice)
         setSelectedPlayers([...selectedPlayers,playerData1])
+        toast("Player added successfully")
     }
     return (
         <div>
